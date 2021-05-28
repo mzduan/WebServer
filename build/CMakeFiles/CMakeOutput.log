@@ -1,0 +1,59 @@
+The system is: Linux - sh: 0: getcwd() failed: No such file or directory
+5.4.0-73-generic - sh: 0: getcwd() failed: No such file or directory
+x86_64
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b1e55/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b1e55.dir/build.make CMakeFiles/cmTC_b1e55.dir/build
+make[1]: Entering directory '/home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b1e55.dir/testCCompiler.c.o
+/usr/bin/x86_64-linux-gnu-gcc-7    -o CMakeFiles/cmTC_b1e55.dir/testCCompiler.c.o   -c /home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_b1e55
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b1e55.dir/link.txt --verbose=1
+/usr/bin/x86_64-linux-gnu-gcc-7      CMakeFiles/cmTC_b1e55.dir/testCCompiler.c.o  -o cmTC_b1e55 
+make[1]: Leaving directory '/home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_80261/fast"
+/usr/bin/make -f CMakeFiles/cmTC_80261.dir/build.make CMakeFiles/cmTC_80261.dir/build
+make[1]: Entering directory '/home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_80261.dir/CMakeCCompilerABI.c.o
+/usr/bin/x86_64-linux-gnu-gcc-7    -o CMakeFiles/cmTC_80261.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_80261
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_80261.dir/link.txt --verbose=1
+/usr/bin/x86_64-linux-gnu-gcc-7      CMakeFiles/cmTC_80261.dir/CMakeCCompilerABI.c.o  -o cmTC_80261 
+make[1]: Leaving directory '/home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_17b00/fast"
+/usr/bin/make -f CMakeFiles/cmTC_17b00.dir/build.make CMakeFiles/cmTC_17b00.dir/build
+make[1]: Entering directory '/home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_17b00.dir/testCXXCompiler.cxx.o
+/usr/bin/x86_64-linux-gnu-g++-7     -o CMakeFiles/cmTC_17b00.dir/testCXXCompiler.cxx.o -c /home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_17b00
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_17b00.dir/link.txt --verbose=1
+/usr/bin/x86_64-linux-gnu-g++-7       CMakeFiles/cmTC_17b00.dir/testCXXCompiler.cxx.o  -o cmTC_17b00 
+make[1]: Leaving directory '/home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_45d38/fast"
+/usr/bin/make -f CMakeFiles/cmTC_45d38.dir/build.make CMakeFiles/cmTC_45d38.dir/build
+make[1]: Entering directory '/home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_45d38.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/x86_64-linux-gnu-g++-7     -o CMakeFiles/cmTC_45d38.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_45d38
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_45d38.dir/link.txt --verbose=1
+/usr/bin/x86_64-linux-gnu-g++-7       CMakeFiles/cmTC_45d38.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_45d38 
+make[1]: Leaving directory '/home/duan/Desktop/TinyWebServer/build/CMakeFiles/CMakeTmp'
+
+

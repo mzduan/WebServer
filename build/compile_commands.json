@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/duan/Desktop/TinyWebServer/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/duan/Desktop/TinyWebServer/src/include    -o CMakeFiles/webserver.dir/http_conn.cpp.o -c /home/duan/Desktop/TinyWebServer/src/http_conn.cpp",
+  "file": "/home/duan/Desktop/TinyWebServer/src/http_conn.cpp"
+},
+{
+  "directory": "/home/duan/Desktop/TinyWebServer/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/duan/Desktop/TinyWebServer/src/include    -o CMakeFiles/webserver.dir/log.cpp.o -c /home/duan/Desktop/TinyWebServer/src/log.cpp",
+  "file": "/home/duan/Desktop/TinyWebServer/src/log.cpp"
+},
+{
+  "directory": "/home/duan/Desktop/TinyWebServer/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/duan/Desktop/TinyWebServer/src/include    -o CMakeFiles/webserver.dir/main.cpp.o -c /home/duan/Desktop/TinyWebServer/src/main.cpp",
+  "file": "/home/duan/Desktop/TinyWebServer/src/main.cpp"
+},
+{
+  "directory": "/home/duan/Desktop/TinyWebServer/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/duan/Desktop/TinyWebServer/src/include    -o CMakeFiles/webserver.dir/sql_connection_pool.cpp.o -c /home/duan/Desktop/TinyWebServer/src/sql_connection_pool.cpp",
+  "file": "/home/duan/Desktop/TinyWebServer/src/sql_connection_pool.cpp"
+}
+]
